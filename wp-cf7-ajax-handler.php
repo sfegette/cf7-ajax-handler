@@ -3,7 +3,7 @@
  * Plugin Name: CF7 AJAX Handler for External Forms
  * Description: Handles Contact Form 7 submissions from external React applications
  * Version: 1.1.1
- * Author: Brilliant Mindworks
+ * Author: Brilliant Mindworks, Scott Fegette
  */
 
 // Prevent direct access
